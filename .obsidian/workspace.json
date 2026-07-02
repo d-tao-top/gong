@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "be69b7c21d6639f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f62e9570d946d4f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f374fae485522874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "逻辑判断.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "逻辑判断"
+            }
+          },
+          {
+            "id": "cddbf7186f5073f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数量题型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数量题型"
+            }
+          },
+          {
+            "id": "cc232c561a3964ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数量题型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数量题型"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd30c4ed58b1985d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a768245fac393117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57f099d145efcbb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e702e0d6466ca323",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bd513fa6109c59f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e9f33a3cb45190a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab4ca15da125a33e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b0bd979ca51c68e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数量题型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "数量题型 的反向链接列表"
+            }
+          },
+          {
+            "id": "2849648485b946de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数量题型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "数量题型 的出链列表"
+            }
+          },
+          {
+            "id": "bbe0e114a628a796",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "70a84a67ecf7cdce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "604c41386a6b085d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数量题型.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "数量题型 的大纲"
+            }
+          },
+          {
+            "id": "296d0e6c8ed23193",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "cc232c561a3964ca",
+  "lastOpenFiles": [
+    "数量.md",
+    "数量题型.md",
+    "逻辑判断.md",
+    "资料.md",
+    "README.md"
+  ]
+}
