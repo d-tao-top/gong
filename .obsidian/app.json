@@ -1,5 +1,8 @@
 {
   "newFileLocation": "folder",
   "attachmentFolderPath": "图片",
-  "newFileFolderPath": "图片"
+  "newFileFolderPath": "图片",
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

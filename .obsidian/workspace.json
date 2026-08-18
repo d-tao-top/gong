@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图片/逻辑判断-章晓明.md",
+                "file": "逻辑判断-章晓明.md",
                 "mode": "source",
                 "source": false
               },
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "图片/逻辑判断-张晓明.md",
+                "file": "图片/逻辑判断-章晓明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -197,21 +197,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b06e7562cc7de4ce",
+  "active": "57f099d145efcbb1",
   "lastOpenFiles": [
-    "图片/Pasted image 20260808111124.png",
-    "图片/Pasted image 20260808110647.png",
-    "图片/Pasted image 20260808110632.png",
-    "图片/Pasted image 20260808110422.png",
-    "图片/Pasted image 20260808110336.png",
-    "图片/Pasted image 20260808104556.png",
-    "图片/Pasted image 20260808104239.png",
-    "图片/Pasted image 20260808104212.png",
-    "图片/Pasted image 20260808103706.png",
-    "图片/Pasted image 20260808103532.png",
-    "图片/Pasted image 20260808103217.png",
+    "assets/逻辑判断-章晓明",
+    "assets",
+    "assets/逻辑判断-章晓明/file-20260818172851196.png",
+    "图片/assets/逻辑判断-章晓明",
+    "图片/assets",
+    "图片/Pasted image 20260815160051.png",
+    "图片/Pasted image 20260815160003.png",
+    "图片/Pasted image 20260815155602.png",
+    "图片/Pasted image 20260815155125.png",
+    "图片/Pasted image 20260815154742.png",
+    "图片/Pasted image 20260815154545.png",
+    "图片/Pasted image 20260815152712.png",
+    "图片/Pasted image 20260815152124.png",
+    "图片/Pasted image 20260815140912.png",
     "逻辑判断.md",
-    "图片/逻辑判断-章晓明.md",
+    "逻辑判断-章晓明.md",
     "数量.md",
     "数量题型.md",
     "图片",
