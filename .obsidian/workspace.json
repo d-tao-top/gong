@@ -166,16 +166,6 @@
               "icon": "lucide-list",
               "title": "逻辑判断 的大纲"
             }
-          },
-          {
-            "id": "296d0e6c8ed23193",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
         "currentTab": 1
@@ -197,8 +187,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "57f099d145efcbb1",
+  "active": "b06e7562cc7de4ce",
   "lastOpenFiles": [
+    "assets/逻辑判断-章晓明/file-20260818174352154.png",
+    "assets/逻辑判断-章晓明/file-20260818174326704.png",
+    "assets/逻辑判断-章晓明/file-20260818173646824.png",
     "assets/逻辑判断-章晓明",
     "assets",
     "assets/逻辑判断-章晓明/file-20260818172851196.png",
@@ -211,8 +204,6 @@
     "图片/Pasted image 20260815154742.png",
     "图片/Pasted image 20260815154545.png",
     "图片/Pasted image 20260815152712.png",
-    "图片/Pasted image 20260815152124.png",
-    "图片/Pasted image 20260815140912.png",
     "逻辑判断.md",
     "逻辑判断-章晓明.md",
     "数量.md",
