@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "逻辑判断-章晓明.md",
+                "file": "判断推理-逻辑判断.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逻辑判断-章晓明"
+              "title": "判断推理-逻辑判断"
+            }
+          },
+          {
+            "id": "38e29eb58679247c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "判断推理-逻辑判断.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "判断推理-逻辑判断"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,29 +202,31 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b06e7562cc7de4ce",
+  "active": "38e29eb58679247c",
   "lastOpenFiles": [
-    "assets/逻辑判断-章晓明/file-20260819181854317.png",
-    "assets/逻辑判断-章晓明/file-20260819171956309.png",
-    "assets/逻辑判断-章晓明/file-20260819171300944.png",
-    "assets/逻辑判断-章晓明/file-20260819170826914.png",
-    "assets/逻辑判断-章晓明/file-20260819170527670.png",
-    "assets/逻辑判断-章晓明/file-20260819170213032.png",
-    "assets/逻辑判断-章晓明/file-20260819163535164.png",
-    "assets/逻辑判断-章晓明/file-20260819162811304.png",
-    "assets/逻辑判断-章晓明/file-20260819162348298.png",
-    "assets/逻辑判断-章晓明/file-20260819162139329.png",
-    "assets/逻辑判断-章晓明/file-20260819161845228.png",
+    "逻辑判断.md",
+    "数量.md",
+    "数量题型.md",
+    "资料.md",
+    "判断推理-逻辑判断.md",
+    "assets/判断推理-逻辑判断",
+    "assets/逻辑判断-逻辑判断",
+    "逻辑判断-章晓明 1.md",
+    "assets/判断推理-逻辑判断/file-20260819213250389.png",
+    "assets/判断推理-逻辑判断/file-20260819213250388 2.png",
+    "assets/判断推理-逻辑判断/file-20260819213250388 1.png",
+    "assets/判断推理-逻辑判断/file-20260819213250388.png",
+    "assets/判断推理-逻辑判断/file-20260819213250387 1.png",
+    "assets/判断推理-逻辑判断/file-20260819213250387.png",
+    "assets/判断推理-逻辑判断/file-20260819213250386 2.png",
+    "assets/判断推理-逻辑判断/file-20260819213250386 1.png",
+    "assets/判断推理-逻辑判断/file-20260819213250386.png",
+    "assets/判断推理-逻辑判断/file-20260819213250385 1.png",
     "assets/逻辑判断-章晓明",
     "assets",
     "图片/assets/逻辑判断-章晓明",
     "图片/assets",
-    "逻辑判断.md",
-    "逻辑判断-章晓明.md",
-    "数量.md",
-    "数量题型.md",
     "图片",
-    "资料.md",
     "README.md"
   ]
 }
